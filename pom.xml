@@ -12,8 +12,8 @@
     <description>GO End 2 End tests</description>
 
     <properties>
-		<go-main1.version>0.0.24</go-main1.version>
-		<go-main2.version>0.0.20</go-main2.version>
+		<go-main1.version>0.0.25</go-main1.version>
+		<go-main2.version>0.0.21</go-main2.version>
         <scala.version>2.11.7</scala.version>
         <junit-version>4.11</junit-version>
     </properties>
