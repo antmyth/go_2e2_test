@@ -12,8 +12,8 @@
     <description>GO End 2 End tests</description>
 
     <properties>
-		<go-main1.version>0.0.54</go-main1.version>
-		<go-main2.version>0.0.46</go-main2.version>
+	<go-main1-version>0.0.54</go-main1-version>
+	<go-main2-version>0.0.46</go-main2-version>
         <scala.version>2.11.7</scala.version>
         <junit-version>4.11</junit-version>
     </properties>
@@ -36,12 +36,12 @@
         <dependency>
             <groupId>com.nature.hub</groupId>
             <artifactId>go-main1</artifactId>
-            <version>${go-main1.version}</version>
+            <version>${go-main1-version}</version>
         </dependency>
         <dependency>
             <groupId>com.nature.hub</groupId>
             <artifactId>go-main2</artifactId>
-            <version>${go-main2.version}</version>
+            <version>${go-main2-version}</version>
         </dependency>
     </dependencies>
 
